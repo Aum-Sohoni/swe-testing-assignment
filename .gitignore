@@ -1,0 +1,39 @@
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.DS_Store
+*.vs/
+*.db
+*.log
+
+# Visual Studio cache/options
+.vs/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# dotnet
+project.lock.json
+project.fragment.lock.json
+
+# Test results
+TestResults/
+
+# Resharper
+_ReSharper*/
+*/.ReSharper*/
+
+# Rider
+.idea/
+
+# Rider caches
+.idea/*/workspace.xml
+.idea/*/tasks.xml
+
